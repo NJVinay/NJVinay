@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NJVinay
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java, sql, os
-- 💞️ I’m looking to collaborate on java and sql
+- 💞️ I’m looking to collaborate on java, python and sql
 - 📫 How to reach me : jv5102003@gmail.com
 
 <!---
