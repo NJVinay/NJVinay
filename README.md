@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NJVinay
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java, sql, python, c, dsa.
-- 💞️ I’m looking to collaborate on java, python, sql, c, dsa, cpp 
-- 📫 Reach me @jv5102003@gmail.com
+- 👋 Hi, I’m N Jyotir Vinay.
+- 👀 I’m interested in P-r-o-g-r-a-m-m-i-n-g.
+- 🌱 I’m currently learning Python, C, Java, DSA, Angular, TypeScript, JavaScript.
+- 💞️ I’m looking to collaborate on Java, Python, SQL, C.
+- 📫 Reach me @jv5102003@gmail.com.
 
 <!---
 NJVinay/NJVinay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
