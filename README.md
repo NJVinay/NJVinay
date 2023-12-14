@@ -9,19 +9,19 @@ In the realm of programming, I wield my keyboard like a sorcerer's wand. Craftin
 ## 🌌 Quantum Leap Projects
 
 ### 1. RECOMMENDER SYSTEMS USING MACHINE LEARNING 
-   - 🌟 *Embark on an adventure:* [Brief overview of the project]
-   - 🚀 *Technologies in the spacecraft:* [List of technologies used]
-   - [🔗 Link to the project repository]
+   - 🌟 *Embark on an adventure:* [This project is a data science and machine learning concept applied project for training predective models through dataset analysis.]
+   - 🚀 *Technologies in the spacecraft:* [ Python - Jupyter Notebooks - Scikit-learn - Pandas - Matplotlib - GitHub]
+   - [🔗 [Link to the project repository](https://github.com/NJVinay/Recommender_System)]
 
 ### 2. ATM SYSTEM INTERFACE 
-   - 🌟 *Unleash the magic:* [Brief overview of the project]
-   - 🚀 *Technological incantations:* [List of technologies used]
-   - [🔗 Link to the project repository]
+   - 🌟 *Unleash the magic:* [This project a user-friendly ATM interface, designed with simplicity for beginners. The project encapsulates fundamental Java concepts, providing hands-on experience in object-oriented programming.]
+   - 🚀 *Technological incantations:* [ Java - Object-Oriented Programming (OOP) Principles]
+   - [🔗[ Link to the project repository](https://github.com/NJVinay/oibsip_taskno3)]
 
 ### 3. SENTIMENT ANALYSIS
-   - 🌟 *Unleash the magic:* [Brief overview of the project]
-   - 🚀 *Technological incantations:* [List of technologies used]
-   - [🔗 Link to the project repository]
+   - 🌟 *Unleash the magic:* [This project is a powerful Sentiment Analysis tool that utilizes machine learning algorithms to analyze and interpret the sentiment behind textual data.]
+   - 🚀 *Technological incantations:* [ Python - Natural Language Processing (NLP) - Machine Learning (ML) - Scikit-learn, NLTK, or other relevant libraries]
+   - [🔗 [Link to the project repository](https://github.com/NJVinay/Sentiment_Analysis)]
 ...
 
 ## 🌱 Currently Channeling
