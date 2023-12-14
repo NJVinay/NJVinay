@@ -39,7 +39,7 @@ A cosmic thank you to Youtube tutors, ChatGPT,  for being guiding stars in my jo
 
 ## 📊 Starship Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NJVinay&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)](https://github.com/NJVinay/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NJVinay&show_icons=true&hide=contribs,prs&count_private=true&theme=highcontrast)](https://github.com/NJVinay/github-readme-stats)
 
 ## 📡 Beam Me a Message
 
