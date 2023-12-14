@@ -9,19 +9,19 @@ In the realm of programming, I wield my keyboard like a sorcerer's wand. Craftin
 ## 🌌 Quantum Leap Projects
 
 ### 1. RECOMMENDER SYSTEMS USING MACHINE LEARNING 
-   - 🌟 *Embark on an adventure:* [This project is a data science and machine learning concept applied project for training predective models through dataset analysis.]
-   - 🚀 *Technologies in the spacecraft:* [ Python - Jupyter Notebooks - Scikit-learn - Pandas - Matplotlib - GitHub]
-   - [🔗 [Link to the project repository](https://github.com/NJVinay/Recommender_System)]
+   - 🌟 *Embark on an adventure:* This project is a data science and machine learning concept applied project for training predective models through dataset analysis.
+   - 🚀 *Technologies in the spacecraft:*  Python - Jupyter Notebooks - Scikit-learn - Pandas - Matplotlib - GitHub
+   - 🔗 [RECOMMENDER SYSTEMS REPOSITORY](https://github.com/NJVinay/Recommender_System)
 
 ### 2. ATM SYSTEM INTERFACE 
-   - 🌟 *Unleash the magic:* [This project a user-friendly ATM interface, designed with simplicity for beginners. The project encapsulates fundamental Java concepts, providing hands-on experience in object-oriented programming.]
-   - 🚀 *Technological incantations:* [ Java - Object-Oriented Programming (OOP) Principles]
-   - [🔗[ Link to the project repository](https://github.com/NJVinay/oibsip_taskno3)]
+   - 🌟 *Unleash the magic:* This project a user-friendly ATM interface, designed with simplicity for beginners. The project encapsulates fundamental Java concepts, providing hands-on experience in object-oriented programming.
+   - 🚀 *Technological incantations:*  Java - Object-Oriented Programming (OOP) Principles
+   - 🔗[ATM SYSTEM INTERFACE REPOSITORY](https://github.com/NJVinay/oibsip_taskno3)
 
 ### 3. SENTIMENT ANALYSIS
-   - 🌟 *Unleash the magic:* [This project is a powerful Sentiment Analysis tool that utilizes machine learning algorithms to analyze and interpret the sentiment behind textual data.]
-   - 🚀 *Technological incantations:* [ Python - Natural Language Processing (NLP) - Machine Learning (ML) - Scikit-learn, NLTK, or other relevant libraries]
-   - [🔗 [Link to the project repository](https://github.com/NJVinay/Sentiment_Analysis)]
+   - 🌟 *Unleash the magic:* This project is a powerful Sentiment Analysis tool that utilizes machine learning algorithms to analyze and interpret the sentiment behind textual data.
+   - 🚀 *Technological incantations:*  Python - Natural Language Processing (NLP) - Machine Learning (ML) - Scikit-learn, NLTK, or other relevant libraries
+   - 🔗 [SENTIMENT ANALYSIS REPOSITORY](https://github.com/NJVinay/Sentiment_Analysis)
 ...
 
 ## 🌱 Currently Channeling
@@ -30,8 +30,8 @@ Diving deep into the cosmic oceans of Machine Learning as well as quite into fro
 
 ## 🚀 Warp Speed Connections
 
-- **LinkedIn:** [[Your LinkedIn Profile]](https://www.linkedin.com/in/naram-jyotir-vinay-055766220/)
-- **Email:** [[Your Email Address]](jv5102003@gmail.com)
+- **LinkedIn:** [[My LinkedIn Profile]](https://www.linkedin.com/in/naram-jyotir-vinay-055766220/)
+- **Email:** [[jv5102003@gmail.com]](jv5102003@gmail.com)
 
 ## 🎉 Galactic Shoutouts
 
@@ -39,7 +39,7 @@ A cosmic thank you to Youtube tutors, ChatGPT,  for being guiding stars in my jo
 
 ## 📊 Starship Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📡 Beam Me a Message
 
