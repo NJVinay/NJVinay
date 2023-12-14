@@ -19,8 +19,8 @@ In the realm of programming, I wield my keyboard like a sorcerer's wand. Craftin
    - 🔗[ATM SYSTEM INTERFACE REPOSITORY](https://github.com/NJVinay/oibsip_taskno3)
 
 ### 3. SENTIMENT ANALYSIS
-   - 🌟 *Unleash the magic:* This project is a powerful Sentiment Analysis tool that utilizes machine learning algorithms to analyze and interpret the sentiment behind textual data.
-   - 🚀 *Technological incantations:*  Python - Natural Language Processing (NLP) - Machine Learning (ML) - Scikit-learn, NLTK, or other relevant libraries
+   - 🌟 * Navigate the celestial code:* This project is a powerful Sentiment Analysis tool that utilizes machine learning algorithms to analyze and interpret the sentiment behind textual data.
+   - 🚀 *Technological sorcery:*  Python - Natural Language Processing (NLP) - Machine Learning (ML) - Scikit-learn, NLTK, or other relevant libraries
    - 🔗 [SENTIMENT ANALYSIS REPOSITORY](https://github.com/NJVinay/Sentiment_Analysis)
 ...
 
