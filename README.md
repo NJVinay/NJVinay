@@ -1,12 +1,10 @@
----
-
 # Hello! I'm N Jyotir Vinay.
 
 I'm Vinay, a dedicated student and passionate programmer exploring the diverse world of technology. Here, I document my journey through coding, projects, and continual learning as I work toward meaningful innovations in the tech landscape.
 
 ## About Me
 
-In the field of programming, I work with various languages and tools, particularly Python, Java, and C, to build efficient solutions for a range of technical challenges. I enjoy experimenting with machine learning, data science, and object-oriented design to create impactful projects.
+In the field of programming, I work with various languages and tools, particularly Python, Java, and Web Development, to build efficient solutions for a range of technical challenges. I enjoy experimenting with machine learning, data science, and object-oriented design to create impactful projects.
 
 ## Key Projects
 
@@ -15,7 +13,7 @@ In the field of programming, I work with various languages and tools, particular
    - **Technologies Used:** Python, Jupyter Notebooks, Scikit-learn, Pandas, Matplotlib, GitHub
    - **Repository:** [Recommender Systems](https://github.com/NJVinay/Recommender_System)
 
-### 2. ATM System Interface
+### 2. Covid 19 Simulation
    - **Description:** A beginner-friendly ATM interface project that demonstrates core Java principles and object-oriented programming concepts.
    - **Technologies Used:** Java, Object-Oriented Programming
    - **Repository:** [ATM System Interface](https://github.com/NJVinay/oibsip_taskno3)
