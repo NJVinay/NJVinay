@@ -16,7 +16,7 @@ In the field of programming, I work with various languages and tools, particular
 ### 2. Covid 19 Simulation
    - **Description:** Description: This project revolves around a data-driven simulation model for COVID-19, to study state transitions and forecast disease progression.
    - **Technologies Used:** Python, Data Analysis, Simulation Modeling
-   - **Repository:** [COVID-19 Simulation Model]([https://github.com/NJVinay/oibsip_taskno3](https://github.com/NJVinay/Covid-19-Simulation))
+   - **Repository:** [COVID-19 Simulation Model](https://github.com/NJVinay/Covid-19-Simulation)
 
 ### 3. Sentiment Analysis
    - **Description:** This project uses machine learning techniques to analyze and interpret sentiment from text data, assisting in sentiment-based decision making.
