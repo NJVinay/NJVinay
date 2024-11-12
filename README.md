@@ -14,9 +14,9 @@ In the field of programming, I work with various languages and tools, particular
    - **Repository:** [Recommender Systems](https://github.com/NJVinay/Recommender_System)
 
 ### 2. Covid 19 Simulation
-   - **Description:** A beginner-friendly ATM interface project that demonstrates core Java principles and object-oriented programming concepts.
-   - **Technologies Used:** Java, Object-Oriented Programming
-   - **Repository:** [ATM System Interface](https://github.com/NJVinay/oibsip_taskno3)
+   - **Description:** Description: This project revolves around a data-driven simulation model for COVID-19, to study state transitions and forecast disease progression.
+   - **Technologies Used:** Python, Data Analysis, Simulation Modeling
+   - **Repository:** [COVID-19 Simulation Model](https://github.com/NJVinay/oibsip_taskno3)
 
 ### 3. Sentiment Analysis
    - **Description:** This project uses machine learning techniques to analyze and interpret sentiment from text data, assisting in sentiment-based decision making.
