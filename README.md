@@ -1,5 +1,3 @@
-Here's a professional rewrite of your GitHub README template, with the cosmic theme toned down for a more polished look:
-
 ---
 
 # Hello! I'm N Jyotir Vinay.
