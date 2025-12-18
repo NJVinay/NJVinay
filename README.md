@@ -1,59 +1,96 @@
-# Hello! I'm N Jyotir Vinay.
+# Hi, I'm Vinay 👋
 
-I'm Vinay, a dedicated student and passionate programmer exploring the diverse world of technology. Here, I document my journey through coding, projects, and continual learning as I work toward meaningful innovations in the tech landscape.
+**Full-Stack Developer | AI/ML Engineer | Game Systems Developer**
+
+Computer Science graduate actively seeking full-time opportunities in software engineering, AI systems, and interactive development. Currently building LLM-powered applications, scalable web services, and game mechanics with modern tech stacks.
 
 ## About Me
 
-In the field of programming, I work with various languages and tools, particularly Python, Java, and Web Development, to build efficient solutions for a range of technical challenges. I enjoy experimenting with machine learning, data science, and object-oriented design to create impactful projects.
+I specialize in building production-ready systems across multiple domains—from emotion-aware AI dialogue systems for games to enterprise web applications with Next.js and Rust backends. My work combines clean architecture, modern frameworks, and practical problem-solving to deliver maintainable, high-performance software.
 
-## Key Projects
+**Core Expertise**: Python, Java, JavaScript/TypeScript, C#, React/Next.js, Unity, FastAPI, PostgreSQL, Firebase, AWS
 
-### 1. npc_memory – Emotion-Aware AI NPC Dialogue System 🎮🧠
-- **Description:** Built an interactive NPC dialogue system using FastAPI, PostgreSQL, and local LLMs (Mistral/DeepSeek) for memory-aware, emotionally responsive gameplay experiences.
-- **Technologies Used:** Python, FastAPI, Ollama LLMs, PostgreSQL, Sentiment Analysis (RoBERTa), HTML/CSS/JS
-- **Repository:** [npc_memory](https://github.com/NJVinay/npc_memory)
+## Featured Projects
 
-### 2. GamePlan – Personalized Fitness & Task Tracking App 🏋️📱
-- **Description:** A dynamic task tracker for fitness routines with geolocation-based attendance, trainer-assigned goals, and progress analytics.
-- **Technologies Used:** JavaScript, Firebase, HTML/CSS, Geolocation API
-- **Repository:** [GamePlan](https://github.com/NJVinay/GamePlanApp)
+### 🎮 npc_memory – Memory-Driven AI NPC Dialogue System
+Emotion-aware dialogue framework for 2D games using local LLMs (Mistral 7B), RoBERTa sentiment analysis, and PostgreSQL memory engine. Enables dynamic, contextually coherent NPC conversations with character bio integration.
 
-### 3. BarrelBound – 2.5D RPG Shooter Game 🎮🔥
-- **Description:** A team-built game jam entry developed in Unity. I contributed core mechanics like weapon pickups, aiming, shooting, UI/UX polish, and menu logic.
-- **Technologies Used:** C#, Unity, Git, Game Design Patterns
-- **Repository:** [RRRJamGame](https://github.com/NJVinay/RRRJamGame)  
-- **Playable Demo:** [BarrelBound on Itch.io](https://crudaluna.itch.io/barrelbound)
+**Tech**: Python, FastAPI, PostgreSQL (Neon.tech), llama-cpp-python, RoBERTa, HTML/CSS/JS  
+**[View Project →](https://github.com/NJVinay/npc_memory)**
 
-### 4. Customer Churn Prediction 📉🔍
-- **Description:** Developed a machine learning model to predict customer churn using real-world telco data. Performed EDA, preprocessing, and model evaluation.
-- **Technologies Used:** Python, Pandas, Scikit-learn, Matplotlib, Jupyter
-- **Repository:** [Customer Churn](https://github.com/NJVinay/Customer-Churn-Prediction)
+### 📱 GamePlan – Task Management & Fitness Tracking App
+React Native mobile app for trainers to assign tasks, track progress, and validate attendance via GPS geolocation. Implements Firebase Authentication with role-based access and real-time Firestore updates.
 
-### 5. COVID-19 Simulation Analysis 🌍🦠
-- **Description:** Simulated and visualized infection spread in multiple countries with adjustable parameters and state transitions.
-- **Technologies Used:** Python, Pandas, Matplotlib, CSV Parsing
-- **Repository:** [Covid-19 Simulation](https://github.com/NJVinay/Covid-19-Simulation)
+**Tech**: React Native, JavaScript, Firebase (Auth & Firestore), Expo-Location API  
+**[View Project →](https://github.com/NJVinay/GamePlanApp)**
 
-## Current Focus
+### 🎯 BarrelBound – 2.5D RPG Shooter (Game Jam)
+Fast-paced Unity game developed during RRR Game Jam. Implemented weapon pickup/drop mechanics, aiming/firing systems, menu logic, and coordinated gameplay debugging.
 
-🎯 Actively seeking **full-time roles** in:
-- Full-Stack Development
-- AI/ML Engineering
-- Frontend/UI Engineering
-- Game Development and Interactive Systems
+**Tech**: C#, Unity, Rigidbody Physics, Git  
+**[Play Demo →](https://crudaluna.itch.io/barrelbound)** | **[View Code →](https://github.com/NJVinay/RRRJamGame)**
 
-🚀 Currently improving my LLM-based interaction systems, deploying secure backend services, and exploring procedural generation in 2D/3D games.
+### 📊 Customer Churn Predictor – Ensemble ML Model
+Ensemble machine learning model (Logistic Regression, Decision Tree, CatBoost, LightGBM) achieving 80% accuracy on e-commerce churn prediction. Implemented k-fold cross-validation and comprehensive performance evaluation.
 
+**Tech**: Python, Pandas, Scikit-learn, CatBoost, LightGBM, Matplotlib  
+**[View Project →](https://github.com/NJVinay/Customer-Churn-Prediction)**
 
-## Connect With Me
+### 🌐 Arngren.net Website Redesign
+Complete UX overhaul applying heuristic evaluation, object-action analysis, and responsive design principles. Improved usability, visual hierarchy, and mobile responsiveness.
 
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/naram-jyotir-vinay-055766220/)
-- **Email:** [jv5102003@gmail.com](mailto:jv5102003@gmail.com)
+**Tech**: HTML, CSS, JavaScript, UX Design Patterns  
+**[View Project →](https://github.com/NJVinay/argen_website_redesign)**
+
+### ☁️ AWS Lambda Grayscale Image Converter
+Serverless image processing pipeline using event-driven architecture. S3 triggers, automated conversion with Pillow, IAM security, and CloudWatch monitoring.
+
+**Tech**: AWS Lambda, S3, Python, Pillow, CloudWatch  
+**[View Project →](https://github.com/NJVinay/GrayScaleImageConversion)**
+
+### 🔒 PromptGuard – LLM Security Threat Modeling
+Comprehensive security assessment of LLM applications using STRIDE, CVSS 3.1, OWASP Top 10 for LLMs, and MITRE ATLAS frameworks. Proposed mitigation strategies for prompt injection threats.
+
+**Tech**: Microsoft Threat Modeling Tool, OWASP Threat Dragon, Security Analysis  
+**[View Project →](https://github.com/NJVinay/PromptGuardLLM)**
+
+## Professional Experience
+
+**Full Stack Developer** | Gaddr (Jul 2025 - Present)  
+Building scalable web features with Next.js/Node.js/Rust, integrating ChatGPT-powered AI interfaces, and improving application workflows for job/task management systems.
+
+**AI Developer** | Realdini (Mar 2025 - May 2025)  
+Developed AI-driven NPC behavior in Unreal Engine 5 using Blueprints and C++. Implemented NavMesh pathfinding, state machines, and animation systems.
+
+**Web Developer** | Wipro (Oct 2023 - Jun 2024)  
+Delivered full-stack applications with AngularJS and Python, supported API integration, and contributed to automation workflows in Agile teams.
+
+## Tech Stack
+
+**Languages**: Python, Java, JavaScript/TypeScript, C#, C++, SQL  
+**Frontend**: React, Next.js, HTML/CSS, React Native  
+**Backend**: FastAPI, Node.js, Spring Boot, Rust  
+**Databases**: PostgreSQL, MySQL, Firebase Firestore  
+**Cloud & DevOps**: AWS (Lambda, S3, CloudWatch), Git, Docker  
+**AI/ML**: Scikit-learn, Pandas, NumPy, LLMs (Mistral, llama-cpp-python), RoBERTa  
+**Game Dev**: Unity, Unreal Engine 5, C#, Blueprints
+
+## Currently
+
+🔭 Building LLM-powered interactive systems and secure RESTful APIs  
+🌱 Exploring procedural generation in game development  
+💼 Open to full-time roles in Full-Stack Development, AI/ML Engineering, Frontend/UI Engineering, and Game Systems  
+📫 Reach me: [jv5102003@gmail.com](mailto:jv5102003@gmail.com)
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naram-jyotir-vinay-055766220/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jv5102003@gmail.com)
 
 ## GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NJVinay&show_icons=true&hide=contribs,prs&count_private=true)](https://github.com/NJVinay/github-readme-stats)
+![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=NJVinay&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
 
 ---
 
-Feel free to reach out for collaboration or discussion on any of my projects. Happy coding!
+💡 Open to collaboration on AI-powered applications, game mechanics, and scalable web systems. Let's build something impactful!
