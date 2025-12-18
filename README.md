@@ -1,4 +1,4 @@
-# Hi, I'm Vinay 👋
+# Hi, I'm Jyotir Vinay 👋
 
 **Full-Stack Developer | AI/ML Engineer | Game Systems Developer**
 
@@ -6,7 +6,7 @@ Computer Science graduate actively seeking full-time opportunities in software e
 
 ## About Me
 
-I specialize in building production-ready systems across multiple domains—from emotion-aware AI dialogue systems for games to enterprise web applications with Next.js and Rust backends. My work combines clean architecture, modern frameworks, and practical problem-solving to deliver maintainable, high-performance software.
+I specialize in building production-ready systems across multiple domains - from emotion-aware AI dialogue systems for games to enterprise web applications with Next.js and Rust backends. My work combines clean architecture, modern frameworks, and practical problem-solving to deliver maintainable, high-performance software.
 
 **Core Expertise**: Python, Java, JavaScript/TypeScript, C#, React/Next.js, Unity, FastAPI, PostgreSQL, Firebase, AWS
 
