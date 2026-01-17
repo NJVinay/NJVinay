@@ -1,7 +1,6 @@
 # Hi, I'm Jyotir Vinay Naram 👋
 
-**Senior Full Stack Engineer | AI/ML Developer | Technical Lead**
-
+**Full Stack Engineer | AI/ML Developer**
 Building production-grade full-stack applications and AI-powered systems from Karlskrona, Sweden. Currently leading end-to-end development at AiLand Media, architecting scalable multi-tenant platforms with real-time analytics and LLM-powered features.
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for_the_badge&logo=google-chrome&logoColor=white)](https://jyotirvinay-portfolio.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for_the_badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotir-vinay-naram-055766220/) [![Email](https://img.shields.io/badge/Email-D14836?style=for_the_badge&logo=gmail&logoColor=white)](mailto:jv5102003@gmail.com)
 
@@ -9,9 +8,7 @@ Building production-grade full-stack applications and AI-powered systems from Ka
 
 ## 🚀 Professional Summary
 
-Senior engineer with expertise in **scalable web applications**, **AI/ML systems**, and **cloud infrastructure**. Technical Co-Founder at AiLand Media, building multi-tenant social media management platforms with Next.js, PostgreSQL, and GPT-powered analytics. Previously delivered features at Gaddr and engineered AI-driven systems at Realdini.
-**Technical Leadership**: Product ownership, system architecture, technical strategy, sprint-based workflows  
-**Core Competencies**: Full-stack development, AI integration, OAuth 2.0/JWT security, cloud deployment, CI/CD  
+**Key Experience**: Product ownership, system architecture, technical strategy, sprint-based workflows**Core Competencies**: Full-stack development, AI integration, OAuth 2.0/JWT security, cloud deployment, CI/CD  
 **Specializations**: Scalable backend services, real-time analytics, LLM-powered features, microservices architecture, production-ready architecture
 
 ---
@@ -108,12 +105,6 @@ Comprehensive security assessment of LLM applications using STRIDE, CVSS 3.1, OW
 
 **Tech**: Microsoft Threat Modeling Tool, OWASP Threat Dragon, Security Analysis
 
-### 🏦 [Java Banking Enterprise System](https://github.com/NJVinay/Java-Banking-Enterprise-System)
-
-Enterprise-grade banking platform with Spring Boot, MySQL, and RESTful APIs. Implements MVC architecture, BCrypt authentication, and design patterns (Singleton, Factory, DAO).
-
-**Tech**: Java 17, Spring Boot, MySQL, Hibernate, BCrypt, JUnit 5  
-**Developed** @ Oasis Infobyte Internship
 
 ---
 
@@ -156,8 +147,7 @@ Blekinge Institute of Technology, Sweden | Sep 2024 - Sep 2025
 
 🔭 Building AI-powered analytics platforms and LLM-based interactive systems  
 🌱 Exploring advanced RAG optimization and scalable microservices architecture  
-💼 Open to **Senior Full-Stack Engineer**, **Backend Engineer**, **AI/ML Engineer**, **Technical Lead** roles in **Sweden/EU**  
-📫 Reach me: [jv5102003@gmail.com](mailto:jv5102003@gmail.com)
+💼 Open to **Full-Stack Engineer**, **Backend Engineer**, **AI/ML Engineer** roles in **Sweden/EU**📫 Reach me: [jv5102003@gmail.com](mailto:jv5102003@gmail.com)
 
 ---
 
