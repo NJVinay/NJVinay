@@ -2,19 +2,17 @@
 
 **Senior Full Stack Engineer | AI/ML Developer | Technical Lead**
 
-Building production-grade full-stack applications and AI-powered systems from Karlskrona, Sweden. Currently leading end-to-end development at AiLand Media, architecting scalable platforms handling 5,000+ requests/hour with 99%+ uptime, real-time analytics, and LLM-powered features.
-
+Building production-grade full-stack applications and AI-powered systems from Karlskrona, Sweden. Currently leading end-to-end development at AiLand Media, architecting scalable multi-tenant platforms with real-time analytics and LLM-powered features.
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for_the_badge&logo=google-chrome&logoColor=white)](https://jyotirvinay-portfolio.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for_the_badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotir-vinay-naram-055766220/) [![Email](https://img.shields.io/badge/Email-D14836?style=for_the_badge&logo=gmail&logoColor=white)](mailto:jv5102003@gmail.com)
 
 ---
 
 ## 🚀 Professional Summary
 
-Senior engineer with expertise in **scalable web applications**, **AI/ML systems**, and **cloud infrastructure**. Technical Co-Founder at AiLand Media, building multi-tenant social media management platforms with Next.js, PostgreSQL, and GPT-powered analytics. Previously delivered features for 10,000+ monthly users and engineered AI-driven systems at multiple startups.
-
+Senior engineer with expertise in **scalable web applications**, **AI/ML systems**, and **cloud infrastructure**. Technical Co-Founder at AiLand Media, building multi-tenant social media management platforms with Next.js, PostgreSQL, and GPT-powered analytics. Previously delivered features at Gaddr and engineered AI-driven systems at Realdini.
 **Technical Leadership**: Product ownership, system architecture, technical strategy, sprint-based workflows  
 **Core Competencies**: Full-stack development, AI integration, OAuth 2.0/JWT security, cloud deployment, CI/CD  
-**Specializations**: Scalable backend services, real-time analytics, LLM-powered features, microservices architecture
+**Specializations**: Scalable backend services, real-time analytics, LLM-powered features, microservices architecture, production-ready architecture
 
 ---
 
@@ -24,19 +22,15 @@ Senior engineer with expertise in **scalable web applications**, **AI/ML systems
 **Jul 2025 - Present | Stockholm, Sweden (Remote)**
 
 - Led end-to-end design and development of multi-tenant AI-powered social media management platform
-- Architected scalable system handling 5,000+ requests/hour with 99%+ uptime using Next.js, Node.js, PostgreSQL, Prisma, Redis
-- Implemented OAuth 2.0 authentication, AI content generation, scheduling systems, and analytics dashboards
+- Architecting scalable systems with Next.js, Node.js, PostgreSQL, Prisma, and Redis for production readiness- Implemented OAuth 2.0 authentication, AI content generation, scheduling systems, and analytics dashboards
 - Built brand strategy tooling and integrated modern AI APIs for content optimization
-- **Impact**: 99%+ uptime, Lighthouse scores 95+, 50% faster page loads, 60% faster deployments
-
+- Focus on reliability, modularity, and scalability with modern deployment practices
 ### **Full Stack Developer** @ Gaddr  
 **May 2025 - Sep 2025 | Stockholm, Sweden (Remote)**
 
-- Built core features using Next.js and Node.js supporting 10,000+ monthly users
-- Implemented application workflows, screening systems, milestone tracking, and AI-assisted proposal tools
+- Built core features using Next.js and Node.js for web application platform- Implemented application workflows, screening systems, milestone tracking, and AI-assisted proposal tools
 - Improved UI consistency and backend API reliability in collaboration with product and design teams
-- **Impact**: 100% sprint deliverables, integrated ChatGPT and Grammarly APIs for proposal automation
-
+- Integrated ChatGPT and Grammarly APIs for proposal automation
 ### **AI Developer** @ Realdini  
 **Mar 2025 - May 2025 | Stockholm, Sweden (Remote)**
 
@@ -81,8 +75,7 @@ Emotion-aware dialogue system for 2D games using local LLMs (Mistral 7B), RoBERT
 Multi-tenant platform with Next.js 16, React 19, TypeScript, Node.js/Express, and PostgreSQL/Prisma. Integrated Meta/Instagram/LinkedIn APIs with OAuth 2.0 and built GPT-3.5 RAG pipeline for automated insights.
 
 **Tech**: Next.js, React, TypeScript, Node.js, PostgreSQL, OpenAI GPT-3.5, Docker, CI/CD  
-**Impact**: 5,000+ requests/hour, 99%+ uptime, real-time analytics
-
+**Focus**: Scalable architecture, reliability, real-time data processing, production deployment
 ### 📱 [GamePlan](https://github.com/NJVinay/GamePlanApp) – Training Management Platform
 
 React Native app for trainers with Firebase Authentication, Firestore real-time sync, and GPS-validated attendance. Features role-based access control and progress analytics.
