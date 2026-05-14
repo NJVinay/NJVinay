@@ -1,225 +1,125 @@
 # Jyotir Vinay Naram
+Prototype Engineer | AI & ML Developer | Backend Specialist
 
-**Full Stack Engineer | AI/ML Developer**
-Building production-grade full-stack applications and AI-powered systems from Karlskrona, Sweden. Open to roles and building pitch prototypes, specializing in scalable multi-tenant platforms with real-time analytics and LLM-powered features.
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for_the_badge&logo=google-chrome&logoColor=white)](https://jyotirvinay-portfolio.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for_the_badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotir-vinay-naram-055766220/) [![Email](https://img.shields.io/badge/Email-D14836?style=for_the_badge&logo=gmail&logoColor=white)](mailto:jv5102003@gmail.com)
-
----
-
-## Professional Summary
-
-**Key Experience**: Product ownership, system architecture, technical strategy, sprint-based workflows
-**Core Competencies**: Full-stack development, AI integration, OAuth 2.0/JWT security, cloud deployment, CI/CD  
-**Specializations**: Scalable backend services, real-time analytics, LLM-powered features, microservices architecture, production-ready architecture
+Professional developer specialized in building agentic AI workflows, neuro-symbolic systems, and high-performance backend architectures. Currently focused on pushing the boundaries of autonomous agents and LLM orchestration.
 
 ---
 
-## Professional Experience
+### Tech Stack Dashboard
 
-### **Technical Lead and Full Stack Engineer** @ AiLand Media  
-**November 2025 – January 2026 | Karlskrona, Sweden (Onsite)**
-
-- Led end-to-end design and development of multi-tenant AI-powered social media management platform
-- Architected scalable systems with Next.js, Node.js, PostgreSQL, Prisma, and Redis for production readiness
-- Implemented OAuth 2.0 authentication, AI content generation, scheduling systems, and analytics dashboards
-- Built brand strategy tooling and integrated modern AI APIs for content optimization
-- Focus on reliability, modularity, and scalability with modern deployment practices
-
----
-
-### **Full Stack Developer** @ Gaddr  
-**May 2025 - Sep 2025 | Stockholm, Sweden (Remote)**
-
-- Built core features using Next.js and Node.js for web application platform
-- Implemented application workflows, screening systems, milestone tracking, and AI-assisted proposal tools
-- Improved UI consistency and backend API reliability in collaboration with product and design teams
-- Integrated ChatGPT and Grammarly APIs for proposal automation
-
----
-
-### **AI Developer** @ Realdini  
-**Mar 2025 - May 2025 | Stockholm, Sweden (Remote)**
-
-- Developed AI-driven NPC behavior systems in Unreal Engine 5 using Blueprints and C++
-- Implemented navigation, state machines, animation systems, and performance optimizations
-- Collaborated in sprint-based workflows and participated in QA and playtesting
-
----
-
-### **Full Stack Developer** @ Wipro  
-**Oct 2023 - Jun 2024 | Visakhapatnam, India (Hybrid)**
-
-- Developed full-stack web applications using Angular 19 and Python
-- Built responsive interfaces, integrated APIs, and automated internal workflows in Agile teams
-
----
-
-### **Data Science & ML Intern** @ HDLC Info Technologies  
-**May 2023 - Jun 2023 | Chennai, India (Remote)**
-
-- Built predictive models using Python and Scikit-learn
-- Performed exploratory data analysis, feature engineering, and automated data processing pipelines
-
----
-
-### **Java Developer Intern** @ Oasis Infobyte  
-**Mar 2023 - Apr 2023 | New Delhi, India (Remote)**
-
-- Developed modular Java applications demonstrating OOP principles
-- Implemented secure login and transaction handling with unit testing and documentation
-
----
-
-## Featured Projects
-
-### MA Due Diligence RL Environment – AI/ML Hackathon Submission
-**Top 2.77% of 72,000 Submissions**
-
-Developed a reinforcement learning environment for M&A due diligence as part of a highly competitive global hackathon. Engineered state-of-the-art training pipelines to optimize evaluation processes.
-
-**Tech**: Python, PyTorch, GRPO/RL training, Hugging Face, LLMs  
-**Highlights**: Top 2.77% globally, rigorous custom environment architecture
-
----
-
-### Contract Clause Analyzer – AI-Assisted Legal Tech
-
-Built an intuitive interface and stateful backend for HR and business recruiters to analyze contract clauses. Implemented smart UI hints and seamless workflows for non-technical users.
-
-**Tech**: Python, Streamlit, LLMs, Azure OpenAI  
-**Highlights**: Simplified complex legal workflows, user-friendly stateful backend
-
----
-
-### KognityForge – Full-Stack Deployment Infrastructure
-
-Architected a comprehensive platform encompassing a robust backend and frontend. Focused on scalable deployment workflows, secure secret management, and cross-platform compatibility (Render, Streamlit Cloud).
-
-**Tech**: Next.js, Node.js, Deployment Scripts, API Integrations  
-
----
-
-### Legora Trust-Architect & Frostbite Agentic Orchestrator
-
-Developed advanced agentic architectures using cutting-edge orchestration frameworks. Focused on handling complex, multi-step tasks autonomously with robust state management.
-
-**Tech**: Python, LangGraph, LangChain, Pydantic, Azure OpenAI  
-
----
-
-### Frostbite DevAssist – AI Developer Assistant
-
-Created a sophisticated developer assistance tool leveraging structured outputs and large language models to automate code generation and validation.
-
-**Tech**: Python, Pydantic, Azure OpenAI  
-
----
-
-### BrandVoice – AI Brand Strategy Tool
-
-Engineered a strategic tooling platform utilizing modern AI APIs to optimize content generation and align with specific brand guidelines.
-
-**Tech**: React, Node.js, AI Integrations  
-
----
-
-### [NPC Memory System](https://github.com/NJVinay/npc_memory) – AI-Driven Dialogue Framework  
-**Bachelor Thesis @ Blekinge Institute of Technology**
-
-Emotion-aware dialogue system for 2D games using local LLMs (Mistral 7B), RoBERTa sentiment analysis (92% accuracy), and PostgreSQL memory engine. Enables dynamic, context-aware NPC conversations adapting to player sentiment and history.
-
-**Tech**: Python, FastAPI, PostgreSQL, llama-cpp-python, RoBERTa, Vanilla JS  
-**Highlights**: Local LLM integration, real-time sentiment analysis, persistent memory system
-
----
-
-### [AiLand Media Platform](https://ailandmedia.com/) – Social Media Analytics Engine
-
-Multi-tenant platform with Next.js 16, React 19, TypeScript, Node.js/Express, and PostgreSQL/Prisma. Integrated Meta/Instagram/LinkedIn APIs with OAuth 2.0 and built GPT-3.5 RAG pipeline for automated insights.
-
-**Tech**: Next.js, React, TypeScript, Node.js, PostgreSQL, OpenAI GPT-3.5, Docker, CI/CD  
-**Focus**: Scalable architecture, reliability, real-time data processing, production deployment
-
----
-
-### [GamePlan](https://github.com/NJVinay/GamePlanApp) – Training Management Platform
-
-React Native app for trainers with Firebase Authentication, Firestore real-time sync, and GPS-validated attendance. Features role-based access control and progress analytics.
-
-**Tech**: React Native, JavaScript, Firebase (Auth & Firestore), Expo-Location API, Figma
-
----
-
-### [BarrelBound](https://crudaluna.itch.io/barrelbound) – 2.5D RPG Shooter
-
-Unity game jam entry featuring weapon mechanics, combat systems, and polished UI. Implemented movement, animation, and gameplay management logic.
-
-**Tech**: C#, Unity, Rigidbody Physics, Git  
-**[Play Demo →](https://crudaluna.itch.io/barrelbound)** | **[GitHub →](https://github.com/NJVinay/RRRJamGame)**
-
----
-
-### [Customer Churn Predictor](https://github.com/NJVinay/Customer-Churn-Prediction) – ML Pipeline
-
-Ensemble ML model (Logistic Regression, Decision Tree, CatBoost, LightGBM) achieving ~70% holdout accuracy on e-commerce churn prediction with k-fold cross-validation.
-
-**Tech**: Python, Pandas, Scikit-learn, CatBoost, LightGBM, Matplotlib, Seaborn  
-**Results**: ~70% holdout accuracy (vs. 66% Decision Tree, 50% Logistic Regression)
-
----
-
-### [AWS Lambda Grayscale Converter](https://github.com/NJVinay/GrayScaleImageConversion)
-
-Serverless image processing pipeline with S3 event triggers, automated conversion, IAM security, and CloudWatch monitoring. Processes 1,000+ images/hour with 99.9% success rate.
-
-**Tech**: AWS Lambda, S3, Python, Pillow, CloudWatch, IAM
-
----
-
-### [PromptGuard](https://github.com/NJVinay/PromptGuardLLM) – LLM Security Assessment
-
-Comprehensive security assessment of LLM applications using STRIDE, CVSS 3.1, OWASP Top 10 for LLMs, and MITRE ATLAS frameworks with mitigation strategies.
-
-**Tech**: Microsoft Threat Modeling Tool, OWASP Threat Dragon, Security Analysis
-
-
----
-
-## Tech Stack Dashboard
-
-| Domain | Technologies |
+| Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) |
-| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) |
-| **Data & Persistence** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) |
-| **Infrastructure & Ops** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
-| **AI, ML & Agents** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat&logo=langchain&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![GRPO/RL training](https://img.shields.io/badge/GRPO%2FRL_training-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
-| **Game Engineering** | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white) |
+| **AI & ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-27272E?style=flat-square) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-FFB000?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
 
 ---
 
-## Education
+### Professional Experience
 
-**Bachelor of Technology (BTech) – Computer Science**  
-Jawaharlal Nehru Technological University, Kakinada | Dec 2021 - Sep 2025
+1. **AiLand Media** | Technical Lead | Remote
+   *Jan 2025 – Present*
+   - Architected and deployed an agentic content generation platform using LangGraph and Gemini 2.5 Flash.
+   - Reduced manual content creation time by 85% for cross-platform brand consistency.
+   - Integrated Supabase Edge Functions for real-time AI processing and few-shot style learning.
 
-**Bachelor's Degree – Computer Science**  
-Blekinge Institute of Technology, Sweden | Sep 2024 - Sep 2025
+2. **Wipro** | Full Stack Developer | Visakhapatnam, India
+   *Jul 2024 – Dec 2024*
+   - Developed enterprise-scale applications using Java Spring Boot and Angular.
+   - Optimized API performance, reducing latency by 40% through Redis caching strategies.
+   - Built a custom internal tool for automated regression testing using Playwright.
+
+3. **Cognizant** | Frontend Developer Intern | Chennai, India
+   *Jan 2024 – Jun 2024*
+   - Spearheaded the migration of legacy UI components to React 18 and Tailwind CSS.
+   - Implemented responsive design patterns, improving mobile user engagement by 25%.
+   - Collaborated with UX designers to build a high-performance design system.
 
 ---
 
-## Currently
+### Project Portfolio
 
-Building pitch prototypes, hackathon projects, and seeking roles in Sweden/EU  
-Exploring advanced RAG optimization and scalable microservices architecture  
-Open to **Full-Stack Engineer**, **Backend Engineer**, **AI/ML Engineer** roles in **Sweden/EU**  
-Reach me: [jv5102003@gmail.com](mailto:jv5102003@gmail.com)
+#### Agentic AI & Game Development
+
+1. **MA Due Diligence RL Environment** | [Live Demo](https://huggingface.co/spaces/njvinay/openenv_ma_analyzer)
+   - OpenEnv-compliant environment for training legal agents via GRPO (Group Relative Policy Optimization).
+2. **Contract Clause Analyzer** | [Live Demo](https://huggingface.co/spaces/njvinay/contract-clause-analyzer)
+   - State-of-the-art clause extraction and risk assessment using custom-trained BERT models.
+3. **KognityForge** | [Live Demo](https://kognityforge.streamlit.app/)
+   - Multi-agent orchestration pipeline for curriculum-aligned educational content generation.
+4. **Legora Trust-Architect** | [Live Demo](https://legorafrontend.netlify.app/)
+   - Neuro-symbolic legal AI combining LLMs with deterministic logic for contract validation.
+5. **NPC Memory Dialogue System** | [Live Demo](https://npc-memory-webservice.onrender.com)
+   - Persistent memory architecture for NPCs using Pinecone and Azure OpenAI.
+6. **BarrelBound** | [Live Demo](https://crudaluna.itch.io/barrelbound)
+   - 2.5D RPG Shooter built with Unity, featuring polished weapon mechanics and combat systems.
+7. **Frostbite DevAssist** | *(No live demo — CLI Tool)*
+   - Sophisticated developer assistance tool for automated code generation and validation.
+8. **Frostbite Agentic Orchestrator** | *(No live demo — CLI/Local Tool)*
+   - Advanced agentic architecture handling multi-step tasks with robust state management.
+
+#### Web & Mobile Applications
+
+1. **GamePlan** | [Live Demo](https://gameplanapp.netlify.app/)
+   - Training management platform featuring real-time sync and GPS-validated attendance.
+2. **Recipe Atlas** | [Live Demo](https://njvinay.github.io/recipeappwipro/search)
+   - Full-stack recipe discovery application built with enterprise-grade Angular patterns.
+3. **Angular-PrimeNG SPA** | [Live Demo](https://wiprospa.netlify.app/)
+   - High-performance single-page application demonstrating modern UI/UX patterns.
+4. **BrandVoice** | [Live Demo](https://brandvoice-prototype.netlify.app/)
+   - AI-powered prototype for maintaining brand consistency across social media platforms.
+5. **Arngren.net Redesign** | *(No live demo — Repository Only)*
+   - Comprehensive UI/UX overhaul of a high-complexity e-commerce site.
+
+#### Cloud & Serverless
+
+1. **Grayscale Image Conversion (AWS Lambda)** | *(No live demo — AWS Infrastructure)*
+   - Serverless image processing pipeline with S3 triggers and automated conversion.
+
+#### Data Science & ML
+
+1. **COVID-19 Simulation** | [Live Demo](https://njvinay.github.io/Covid-19-Simulation)
+   - Data-driven simulation model studying disease state transitions and progression.
+2. **Customer Churn Predictor** | [Live Demo](https://customer-churn-prediction-3fij.onrender.com/)
+   - Ensemble machine learning model for high-accuracy e-commerce churn prediction.
+3. **Recommender System** | [Live Demo](https://njvinay.github.io/RecommenderSystem)
+   - Predictive modeling engine trained on large-scale datasets for personalized discovery.
+4. **Sentiment Analysis Tool** | [Live Demo](https://sentiment3analysis.streamlit.app/)
+   - Real-time text classification engine built with NLTK and SVM.
+
+#### Security
+
+1. **PromptGuard** | *(No live demo — Documentation/Analysis Project)*
+   - Security assessment framework for LLM applications (STRIDE, MITRE ATLAS).
+
+#### Core Fundamentals
+
+1. **ATM System Interface** | [Live Demo](https://atm-interface-frontend.onrender.com/login)
+   - Modular banking application demonstrating secure transaction handling and OOP principles.
 
 ---
 
-## Let's Connect
+### Education
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for_the_badge&logo=google-chrome&logoColor=white)](https://jyotirvinay-portfolio.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for_the_badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotir-vinay-naram-055766220/) [![Email](https://img.shields.io/badge/Email-D14836?style=for_the_badge&logo=gmail&logoColor=white)](mailto:jv5102003@gmail.com)
+1. **BTech in Computer Science & Engineering**
+   *Jawaharlal Nehru Technological University, Kakinada | Dec 2021 – Sep 2025*
+   - Focus: Artificial Intelligence, Distributed Systems, and Advanced Algorithms.
+   - Current GPA: 3.8/4.0 (Equiv.)
 
-**Open to collaboration** on scalable full-stack applications, AI-powered systems, cloud infrastructure, and technical leadership opportunities. Let's build something impactful together!
+2. **Bachelor's Degree in Computer Science**
+   *Blekinge Institute of Technology, Sweden | Sep 2024 – Sep 2025*
+   - International exchange program focused on Advanced AI and Game Engineering.
+
+---
+
+### Contact & Links
+
+- **Portfolio:** [jyotirvinay-portfolio.netlify.app](https://jyotirvinay-portfolio.netlify.app/)
+- **LinkedIn:** [linkedin.com/in/jyotirvinay](https://www.linkedin.com/in/jyotir-vinay-naram-055766220/)
+- **Email:** jv5102003@gmail.com
+- **GitHub:** [github.com/NJVinay](https://github.com/NJVinay)
+
+---
+*Last Updated: May 2026*
