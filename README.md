@@ -1,7 +1,7 @@
 # Hi, I'm Jyotir Vinay Naram 👋
 
 **Full Stack Engineer | AI/ML Developer**
-Building production-grade full-stack applications and AI-powered systems from Karlskrona, Sweden. Currently leading end-to-end development at AiLand Media, architecting scalable multi-tenant platforms with real-time analytics and LLM-powered features.
+Building production-grade full-stack applications and AI-powered systems from Karlskrona, Sweden. Open to roles and building pitch prototypes, specializing in scalable multi-tenant platforms with real-time analytics and LLM-powered features.
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for_the_badge&logo=google-chrome&logoColor=white)](https://jyotirvinay-portfolio.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for_the_badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotir-vinay-naram-055766220/) [![Email](https://img.shields.io/badge/Email-D14836?style=for_the_badge&logo=gmail&logoColor=white)](mailto:jv5102003@gmail.com)
 
 ---
@@ -15,17 +15,19 @@ Building production-grade full-stack applications and AI-powered systems from Ka
 
 ## 💼 Professional Experience
 
-### **Technical Co-Founder & Lead Engineer** @ AiLand Media  
-**Jul 2025 - Present | Stockholm, Sweden (Remote)**
+### **Technical Lead and Full Stack Engineer** @ AiLand Media  
+**November 2025 – January 2026 | Karlskrona, Sweden (Onsite)**
 
 - Led end-to-end design and development of multi-tenant AI-powered social media management platform
-- Architecting scalable systems with Next.js, Node.js, PostgreSQL, Prisma, and Redis for production readiness- Implemented OAuth 2.0 authentication, AI content generation, scheduling systems, and analytics dashboards
+- Architected scalable systems with Next.js, Node.js, PostgreSQL, Prisma, and Redis for production readiness
+- Implemented OAuth 2.0 authentication, AI content generation, scheduling systems, and analytics dashboards
 - Built brand strategy tooling and integrated modern AI APIs for content optimization
 - Focus on reliability, modularity, and scalability with modern deployment practices
 ### **Full Stack Developer** @ Gaddr  
 **May 2025 - Sep 2025 | Stockholm, Sweden (Remote)**
 
-- Built core features using Next.js and Node.js for web application platform- Implemented application workflows, screening systems, milestone tracking, and AI-assisted proposal tools
+- Built core features using Next.js and Node.js for web application platform
+- Implemented application workflows, screening systems, milestone tracking, and AI-assisted proposal tools
 - Improved UI consistency and backend API reliability in collaboration with product and design teams
 - Integrated ChatGPT and Grammarly APIs for proposal automation
 ### **AI Developer** @ Realdini  
@@ -34,14 +36,12 @@ Building production-grade full-stack applications and AI-powered systems from Ka
 - Developed AI-driven NPC behavior systems in Unreal Engine 5 using Blueprints and C++
 - Implemented navigation, state machines, animation systems, and performance optimizations
 - Collaborated in sprint-based workflows and participated in QA and playtesting
-- **Impact**: 45% improvement in enemy movement accuracy
 
-### **Web Developer** @ Wipro  
+### **Full Stack Developer** @ Wipro  
 **Oct 2023 - Jun 2024 | Visakhapatnam, India (Hybrid)**
 
-- Developed full-stack web applications using AngularJS and Python supporting 2,000+ concurrent users
+- Developed full-stack web applications using Angular 19 and Python
 - Built responsive interfaces, integrated APIs, and automated internal workflows in Agile teams
-- **Impact**: 30% reduction in manual data processing
 
 ### **Data Science & ML Intern** @ HDLC Info Technologies  
 **May 2023 - Jun 2023 | Chennai, India (Remote)**
@@ -58,6 +58,45 @@ Building production-grade full-stack applications and AI-powered systems from Ka
 ---
 
 ## 🎯 Featured Projects
+
+### 🏆 MA Due Diligence RL Environment – AI/ML Hackathon Submission
+**Top 2.77% of 72,000 Submissions**
+
+Developed a reinforcement learning environment for M&A due diligence as part of a highly competitive global hackathon. Engineered state-of-the-art training pipelines to optimize evaluation processes.
+
+**Tech**: Python, PyTorch, GRPO/RL training, Hugging Face, LLMs  
+**Highlights**: Top 2.77% globally, rigorous custom environment architecture
+
+### 📄 Contract Clause Analyzer – AI-Assisted Legal Tech
+
+Built an intuitive interface and stateful backend for HR and business recruiters to analyze contract clauses. Implemented smart UI hints and seamless workflows for non-technical users.
+
+**Tech**: Python, Streamlit, LLMs, Azure OpenAI  
+**Highlights**: Simplified complex legal workflows, user-friendly stateful backend
+
+### 🏗️ KognityForge – Full-Stack Deployment Infrastructure
+
+Architected a comprehensive platform encompassing a robust backend and frontend. Focused on scalable deployment workflows, secure secret management, and cross-platform compatibility (Render, Streamlit Cloud).
+
+**Tech**: Next.js, Node.js, Deployment Scripts, API Integrations  
+
+### 🛡️ Legora Trust-Architect & 🤖 Frostbite Agentic Orchestrator
+
+Developed advanced agentic architectures using cutting-edge orchestration frameworks. Focused on handling complex, multi-step tasks autonomously with robust state management.
+
+**Tech**: Python, LangGraph, LangChain, Pydantic, Azure OpenAI  
+
+### 💻 Frostbite DevAssist – AI Developer Assistant
+
+Created a sophisticated developer assistance tool leveraging structured outputs and large language models to automate code generation and validation.
+
+**Tech**: Python, Pydantic, Azure OpenAI  
+
+### 📢 BrandVoice – AI Brand Strategy Tool
+
+Engineered a strategic tooling platform utilizing modern AI APIs to optimize content generation and align with specific brand guidelines.
+
+**Tech**: React, Node.js, AI Integrations  
 
 ### 🤖 [NPC Memory System](https://github.com/NJVinay/npc_memory) – AI-Driven Dialogue Framework  
 **Bachelor Thesis @ Blekinge Institute of Technology**
@@ -88,10 +127,10 @@ Unity game jam entry featuring weapon mechanics, combat systems, and polished UI
 
 ### 📈 [Customer Churn Predictor](https://github.com/NJVinay/Customer-Churn-Prediction) – ML Pipeline
 
-Ensemble ML model (Logistic Regression, Decision Tree, CatBoost, LightGBM) achieving 80% accuracy on e-commerce churn prediction with k-fold cross-validation.
+Ensemble ML model (Logistic Regression, Decision Tree, CatBoost, LightGBM) achieving ~70% holdout accuracy on e-commerce churn prediction with k-fold cross-validation.
 
 **Tech**: Python, Pandas, Scikit-learn, CatBoost, LightGBM, Matplotlib, Seaborn  
-**Results**: 80% accuracy (vs. 66% Decision Tree, 50% Logistic Regression)
+**Results**: ~70% holdout accuracy (vs. 66% Decision Tree, 50% Logistic Regression)
 
 ### ☁️ [AWS Lambda Grayscale Converter](https://github.com/NJVinay/GrayScaleImageConversion)
 
@@ -126,7 +165,7 @@ Comprehensive security assessment of LLM applications using STRIDE, CVSS 3.1, OW
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ### AI/ML
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat&logo=langchain&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![GRPO/RL training](https://img.shields.io/badge/GRPO%2FRL_training-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
@@ -136,7 +175,7 @@ Comprehensive security assessment of LLM applications using STRIDE, CVSS 3.1, OW
 ## 🎓 Education
 
 **Bachelor of Technology (BTech) – Computer Science**  
-Jawaharlal Nehru Technological University, Kakinada | Dec 2021 - Dec 2025
+Jawaharlal Nehru Technological University, Kakinada | Dec 2021 - Sep 2025
 
 **Bachelor's Degree – Computer Science**  
 Blekinge Institute of Technology, Sweden | Sep 2024 - Sep 2025
@@ -145,9 +184,10 @@ Blekinge Institute of Technology, Sweden | Sep 2024 - Sep 2025
 
 ## 🎯 Currently
 
-🔭 Building AI-powered analytics platforms and LLM-based interactive systems  
+🔭 Building pitch prototypes, hackathon projects, and seeking roles in Sweden/EU  
 🌱 Exploring advanced RAG optimization and scalable microservices architecture  
-💼 Open to **Full-Stack Engineer**, **Backend Engineer**, **AI/ML Engineer** roles in **Sweden/EU**📫 Reach me: [jv5102003@gmail.com](mailto:jv5102003@gmail.com)
+💼 Open to **Full-Stack Engineer**, **Backend Engineer**, **AI/ML Engineer** roles in **Sweden/EU**  
+📫 Reach me: [jv5102003@gmail.com](mailto:jv5102003@gmail.com)
 
 ---
 
